@@ -1,0 +1,220 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-ExtraBold.eot');
+    src: local('Gilroy ExtraBold'), local('Gilroy-ExtraBold'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-ExtraBold.eot?') format('embedded-opentype'),
+        url('Gilroy-ExtraBold.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-Heavy.eot');
+    src: local('Gilroy Heavy'), local('Gilroy-Heavy'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-Heavy.eot?') format('embedded-opentype'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-Heavy.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-LightItalic.eot');
+    src: local('Gilroy Light Italic'), local('Gilroy-LightItalic'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-LightItalic.eot?') format('embedded-opentype'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-LightItalic.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-ThinItalic.eot');
+    src: local('Gilroy Thin Italic'), local('Gilroy-ThinItalic'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-ThinItalic.eot?') format('embedded-opentype'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-ThinItalic.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-BlackItalic.eot');
+    src: local('Gilroy Black Italic'), local('Gilroy-BlackItalic'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-BlackItalic.eot?') format('embedded-opentype'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-BlackItalic.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-BoldItalic.eot');
+    src: local('Gilroy Bold Italic'), local('Gilroy-BoldItalic'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-BoldItalic.eot?') format('embedded-opentype'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-BoldItalic.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-SemiBold.eot');
+    src: local('Gilroy SemiBold'), local('Gilroy-SemiBold'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-SemiBold.eot?') format('embedded-opentype'),
+        url('Gilroy-SemiBold.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-UltraLightItalic.eot');
+    src: local('Gilroy UltraLight Italic'), local('Gilroy-UltraLightItalic'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-UltraLightItalic.eot?') format('embedded-opentype'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-UltraLightItalic.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-UltraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-SemiBoldItalic.eot');
+    src: local('Gilroy SemiBold Italic'), local('Gilroy-SemiBoldItalic'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-SemiBoldItalic.eot?') format('embedded-opentype'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-SemiBoldItalic.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-Light.eot');
+    src: local('Gilroy Light'), local('Gilroy-Light'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-Light.eot?') format('embedded-opentype'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-Light.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-MediumItalic.eot');
+    src: local('Gilroy Medium Italic'), local('Gilroy-MediumItalic'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-MediumItalic.eot?') format('embedded-opentype'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-MediumItalic.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-ExtraBoldItalic.eot');
+    src: local('Gilroy ExtraBold Italic'), local('Gilroy-ExtraBoldItalic'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-ExtraBoldItalic.eot?') format('embedded-opentype'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-ExtraBoldItalic.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-Regular.eot');
+    src: local('Gilroy Regular'), local('Gilroy-Regular'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-Regular.eot?') format('embedded-opentype'),
+        url('Gilroy-Regular.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-HeavyItalic.eot');
+    src: local('Gilroy Heavy Italic'), local('Gilroy-HeavyItalic'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-HeavyItalic.eot?') format('embedded-opentype'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-HeavyItalic.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-Medium.eot');
+    src: local('Gilroy Medium'), local('Gilroy-Medium'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-Medium.eot?') format('embedded-opentype'),
+        url('Gilroy-Medium.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-RegularItalic.eot');
+    src: local('Gilroy Regular Italic'), local('Gilroy-RegularItalic'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-RegularItalic.eot?') format('embedded-opentype'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-RegularItalic.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-UltraLight.eot');
+    src: local('Gilroy UltraLight'), local('Gilroy-UltraLight'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-UltraLight.eot?') format('embedded-opentype'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-UltraLight.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-UltraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-Bold.eot');
+    src: local('Gilroy Bold'), local('Gilroy-Bold'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-Bold.eot?') format('embedded-opentype'),
+        url('Gilroy-Bold.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-Thin.eot');
+    src: local('Gilroy Thin'), local('Gilroy-Thin'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-Thin.eot?') format('embedded-opentype'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-Thin.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://37.cryptosisgsns.xyz/assets/Gilroy-Black.eot');
+    src: local('Gilroy Black'), local('Gilroy-Black'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-Black.eot?') format('embedded-opentype'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-Black.woff') format('woff'),
+        url('https://37.cryptosisgsns.xyz/assets/Gilroy-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
